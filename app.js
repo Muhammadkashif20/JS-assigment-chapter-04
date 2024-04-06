@@ -1,19 +1,20 @@
-//  Declare 3 variables in one statement.
-// Question 01 :- Legal:
+var kashif; var ali; var asad;
 
-var dollar;
-var underscore;
-var text;
-var case_Sensetive;
-var camelCase;
+// 5 Legall  
 
-// Question 02 :- Illegal:
+//camelCase
+//underscore
+//dollarsign
+//letter
+//digits
 
-var var;
-var kfdjdhuxuxshhs;
-var 1number;
-var &#%@^;
-var hsk sjh;
+//5 illegal
+
+//start mai number nahi de sakte
+//space nahi dena letter ke bech mai
+//camelcase hona chaiye
+//case sensitive
+//javascript reserved word not
 
 // Question 03 :- Js Variables:
 
